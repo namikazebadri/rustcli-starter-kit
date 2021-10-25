@@ -1,2 +1,2 @@
 # RustCLIStarterKit
-CLI Application starter kit for Rust programming language.
+CLI Application starter kit for Rust programming language
